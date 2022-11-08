@@ -16,6 +16,6 @@ CSS &emsp;&emsp;&emsp;&ensp;  ⭐⭐⭐⭐⭐
 React &emsp;&emsp;&emsp;  ⭐⭐⭐    
 JavaScript &emsp;  ⭐⭐⭐   
 Python &emsp;&emsp;&ensp;  ⭐⭐  
-Java &emsp;&emsp;&emsp;&ensp;  ⭐⭐  
+Java &emsp;&emsp;&emsp;&ensp;   ⭐⭐  
 C &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; ⭐⭐  
 
