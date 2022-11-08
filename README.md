@@ -20,4 +20,4 @@ C &emsp;&emsp;&emsp;&emsp;&ensp;&ensp;⭐⭐
 Python &emsp;&emsp;&ensp;⭐  
 
 </br>
-Note: This is a very conservative assessment.
+<b>Note</b>: This is a very conservative assessment.
