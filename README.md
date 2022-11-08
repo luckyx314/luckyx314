@@ -12,7 +12,7 @@ A novice for now but not for long.
 </br>
 
 <b>SKILLS</b>:   
-CSS &emsp;&emsp;&emsp;&ensp;  ⭐⭐⭐⭐⭐  
+CSS &emsp;&emsp;&emsp;&ensp;   ⭐⭐⭐⭐⭐  
 React &emsp;&emsp;&emsp;  ⭐⭐⭐    
 JavaScript &emsp;  ⭐⭐⭐   
 Python &emsp;&emsp;&ensp;⭐⭐  
