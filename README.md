@@ -20,4 +20,5 @@ C &emsp;&emsp;&emsp;&emsp;&ensp;&ensp;⭐⭐
 Python &emsp;&emsp;&ensp;⭐  
 
 </br>
-<b>Note</b>: This is a very conservative assessment.
+<b>Note</b>: This is a very conservative assessment.    
+As of November 2022.
