@@ -14,8 +14,7 @@ A novice for now but not for long.
 <b>SKILLS</b>:   
 CSS &emsp;&emsp;&emsp;&ensp;   &nbsp;⭐⭐⭐⭐⭐  
 React &emsp;&emsp;&emsp;  ⭐⭐⭐    
-JavaScript &emsp;  ⭐⭐⭐   
-Python &emsp;&emsp;&ensp;⭐⭐  
+JavaScript &emsp;  ⭐⭐⭐    
 Java &emsp;&emsp;&emsp;&ensp;    ⭐⭐  
 C &emsp;&emsp;&emsp;&emsp;&ensp;&ensp;⭐⭐  
-
+Python &emsp;&emsp;&ensp;⭐ 
