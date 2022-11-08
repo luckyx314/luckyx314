@@ -11,10 +11,12 @@ You can click the Preview link to take a look at your changes.
 A novice for now but not for long.
 </br>
 
-<b>SKILLS</b>:   
-CSS &emsp;&emsp;&emsp;&ensp;   &nbsp;⭐⭐⭐⭐⭐  
+<b>SKILLS</b> (out of 5 stars):  
+CSS &emsp;&emsp;&emsp;&ensp;   &nbsp;⭐⭐⭐⭐  
 React &emsp;&emsp;&emsp;  ⭐⭐⭐    
 JavaScript &emsp;  ⭐⭐⭐    
 Java &emsp;&emsp;&emsp;&ensp;    ⭐⭐  
 C &emsp;&emsp;&emsp;&emsp;&ensp;&ensp;⭐⭐  
 Python &emsp;&emsp;&ensp;⭐ 
+
+Note: This is a very conservative assessment.
