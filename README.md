@@ -14,7 +14,6 @@ A novice for now but not for long.
 </br>
 
 <b>SKILLS</b> (out of 5 stars):  
-As of November 2022.   
 CSS &emsp;&emsp;&emsp;&ensp;   &nbsp;⭐⭐⭐⭐  
 React &emsp;&emsp;&emsp;  ⭐⭐⭐    
 JavaScript &emsp;  ⭐⭐⭐    
