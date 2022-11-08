@@ -15,7 +15,7 @@ A novice for now but not for long.
 CSS &emsp;&emsp;&emsp;&ensp;  ⭐⭐⭐⭐⭐  
 React &emsp;&emsp;&emsp;  ⭐⭐⭐    
 JavaScript &emsp;  ⭐⭐⭐   
-Python &emsp;&emsp;&ensp;  ⭐⭐  
+Python &emsp;&emsp;&ensp; ⭐⭐  
 Java &emsp;&emsp;&emsp;&ensp;    ⭐⭐  
-C &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; ⭐⭐  
+C &emsp;&emsp;&emsp;&emsp;&ensp;&ensp;⭐⭐  
 
