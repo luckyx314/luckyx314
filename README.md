@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 A novice for now but not for long.
 
-CSS           | ✨✨✨✨✨  
-React         | ✨✨✨  
-JavaScript    | ✨✨✨  
-Python        | ✨✨  
-Java          | ✨✨  
-C             | ✨✨  
+CSS &emsp| ✨✨✨✨✨  
+React &emsp| ✨✨✨  
+JavaScript &emsp| ✨✨✨  
+Python &emsp| ✨✨  
+Java &emsp| ✨✨  
+C &emsp| ✨✨  
 
