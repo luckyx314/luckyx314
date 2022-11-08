@@ -17,6 +17,7 @@ React &emsp;&emsp;&emsp;  ⭐⭐⭐
 JavaScript &emsp;  ⭐⭐⭐    
 Java &emsp;&emsp;&emsp;&ensp;    ⭐⭐  
 C &emsp;&emsp;&emsp;&emsp;&ensp;&ensp;⭐⭐  
-Python &emsp;&emsp;&ensp;⭐ 
+Python &emsp;&emsp;&ensp;⭐  
 
+</br>
 Note: This is a very conservative assessment.
