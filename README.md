@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 A novice for now but not for long.  
 <i>As of <b>November 2022.</b></i> 
 </br>
+</br>
 
 <b>SKILLS</b> (out of 5 stars):  
 As of November 2022.   
